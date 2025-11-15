@@ -7,4 +7,5 @@ printf("Hello World!\n");
 return 0;
 }
 
-Modyfikacja hello.c w GUI GitHub
+
+
